@@ -1,0 +1,1 @@
+Perekenalkan nama saya Alitha Rachma Choirunnisa dari Teknik Biomedis 2024 berasa dari kelompok Kirchoff. Program ini saya buat untuk memudahkan seseorang ketika mengoprasikan penjumlahan, pengurangan,perkalian,dan pembagian dengan memasukkan input dan output sebagai hasil oprasian.
